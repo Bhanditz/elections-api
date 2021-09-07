@@ -1,12 +1,12 @@
-Flask==0.10.1
+Flask==0.12.3
 Flask-Admin==1.0.7
 Flask-Login==0.2.7
 Flask-SQLAlchemy==1.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
-SQLAlchemy==0.9.0
+SQLAlchemy==1.2.18
 WTForms==1.0.5
-Werkzeug==0.10.1
+Werkzeug==0.11.6
 gevent==1.0.1
 greenlet==0.4.5
 gunicorn==19.2.1
