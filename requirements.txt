@@ -5,7 +5,7 @@ Flask-SQLAlchemy==1.0
 Jinja2==2.7.3
 MarkupSafe==0.23
 SQLAlchemy==0.9.0
-WTForms==1.0.5
+WTForms==2.3.0
 Werkzeug==0.10.1
 gevent==1.0.1
 greenlet==0.4.5
